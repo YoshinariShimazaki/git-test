@@ -6,3 +6,4 @@ Hello3
 
 added a very important change
 added a cool feature
+we fixed bug
